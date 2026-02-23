@@ -2,6 +2,9 @@
 
 A clean portfolio site where everything is managed through a single content file. No database setup, no backend complexity—just edit one file and you're done.
 
+**Live Demo:** https://portfolio-cms-lite.vercel.app  
+**GitHub:** https://github.com/tollypad/portfolio-cms-lite
+
 ## What's Different Here
 
 This isn't your typical portfolio template. Instead of scattering content across dozens of component files, everything lives in one place. Update your projects, bio, or contact info in `data/content.js` and the whole site updates automatically.
